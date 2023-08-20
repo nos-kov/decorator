@@ -33,3 +33,24 @@ kwargs :{'a': 0, 'b': 0}
 func result: 0
 
 
+Start time :08/20/2023, 22:35:42
+Func name :try_call
+args :()
+kwargs :{}
+func result: None
+
+
+Start time :08/20/2023, 22:36:01
+Func name :try_call
+args :()
+kwargs :{}
+func result: None
+
+
+Start time :08/20/2023, 22:36:38
+Func name :try_call
+args :()
+kwargs :{}
+func result: Status is: 200
+
+
